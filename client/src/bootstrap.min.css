@@ -6213,7 +6213,7 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 .bg-primary {
-  background-color: #4582ec !important;
+  background-color: rgb(23, 89, 88) !important;
 }
 a.bg-primary:focus,
 a.bg-primary:hover,
