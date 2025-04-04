@@ -167,7 +167,7 @@ const TestCreate = ({ history }) => {
               onChange={e => setPaperType(e.target.value)}
             >
               <option value="">Select Paper-Type</option>
-              <option value="ORGANISATION">Organisation</option>
+              <option value="ORGANISATION">Invite Only Test</option>
               <option value="GROUP">Group Test</option>
               <option value="ASSIGNMENT">Assignment</option>
             </Form.Control>
